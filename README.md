@@ -11,4 +11,5 @@ You can see render offsets syntax [here](https://wiki.bedrock.dev/items/items-16
 # How to use
 
 Warning: This script requires [Pillow](https://pypi.org/project/Pillow/) library.
-Clone this repository and run `main.py`. It should ask you to open your texture file, if not - rerun the script. You can see the result in terminal or in render_offsets.json file in the same folder script is.
+You will need to run `pip install -r requirements.txt` in the directory of this script.
+Clone this repository and run `main.py`. It should ask you to open your texture file, if not - re-run the script. You can see the result in terminal or in render_offsets.json file in the same folder script is.
