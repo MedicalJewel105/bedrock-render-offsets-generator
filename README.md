@@ -1,7 +1,8 @@
 # Bedrock Render Offsets Generator
 
 Generates render offsets for MC Bedrock.
-Created by MedicalJewel105 a.k.a MJ105#0448
+Created by MedicalJewel105 a.k.a MJ105#0448.
+This tool is [available](https://github.com/MedicalJewel105/regolilters/tree/main/item_scale) as a [Regolith](https://bedrock-oss.github.io/regolith/) filter.
 
 # What is render_offsets
 
